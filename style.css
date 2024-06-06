@@ -1,0 +1,28 @@
+#hi{
+    text-align: center;
+}
+#brand{
+ 
+    display: flexbox;
+    text-align: center;
+    padding: auto;
+}
+.nav-link{
+    text-decoration: none;
+    color: black;
+}
+#name{
+    border-bottom: 1px solid whitesmoke;
+    border-top: 3px solid whitesmoke;
+
+    box-shadow: 1.5px ;
+    text-decoration: none;
+    color: whitesmoke;
+    font-weight: bold;
+    background-color: rgb(132, 132, 132);
+    border-radius:10% 2% 10% 2% ;
+}
+.lead{
+    margin: auto;
+    text-align: center;
+}
